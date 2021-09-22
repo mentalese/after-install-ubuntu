@@ -62,8 +62,8 @@ sudo apt install mainline
 ```
 
 ### pipewire
-https://askubuntu.com/questions/1339765/replacing-pulseaudio-with-pipewire-in-ubuntu-20-04
 https://ubuntuhandbook.org/index.php/2021/05/install-latest-pipewire-ppa-ubuntu-20-04/
+https://ubuntuhandbook.org/index.php/2021/05/enable-pipewire-audio-service-ubuntu-21-04/
 ```
 sudo add-apt-repository ppa:pipewire-debian/pipewire-upstream
 sudo apt install pipewire gstreamer1.0-pipewire, libspa-0.2-bluetooth, libspa-0.2-jack
