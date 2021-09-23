@@ -79,3 +79,8 @@ https://www.nosqlbooster.com/home
 ### gitsh
 https://github.com/thoughtbot/gitsh
 
+### openconnect
+```
+sudo apt install openconnect
+```
+
