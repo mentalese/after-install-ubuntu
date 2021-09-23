@@ -62,11 +62,12 @@ sudo apt install mainline
 ```
 
 ### pipewire
-https://ubuntuhandbook.org/index.php/2021/05/install-latest-pipewire-ppa-ubuntu-20-04/
-https://ubuntuhandbook.org/index.php/2021/05/enable-pipewire-audio-service-ubuntu-21-04/
+https://pipewire-debian.github.io/pipewire-debian/
+~~https://ubuntuhandbook.org/index.php/2021/05/install-latest-pipewire-ppa-ubuntu-20-04/~~
+~~https://ubuntuhandbook.org/index.php/2021/05/enable-pipewire-audio-service-ubuntu-21-04/~~
 ```
-sudo add-apt-repository ppa:pipewire-debian/pipewire-upstream
-sudo apt install pipewire gstreamer1.0-pipewire, libspa-0.2-bluetooth, libspa-0.2-jack
+#sudo add-apt-repository ppa:pipewire-debian/pipewire-upstream
+#sudo apt install pipewire gstreamer1.0-pipewire, libspa-0.2-bluetooth, libspa-0.2-jack
 ```
 
 ### intellij toolbox
