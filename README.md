@@ -84,3 +84,8 @@ https://github.com/thoughtbot/gitsh
 sudo apt install openconnect
 ```
 
+### gnome-tweak-tool
+```
+sudo apt install gnome-tweak-tool
+```
+
