@@ -89,3 +89,10 @@ sudo apt install openconnect
 sudo apt install gnome-tweak-tool
 ```
 
+### pulse vpn
+```
+sudo apt install network-manager-openconnect-gnome
+```
+```
+nmcli con add type vpn con-name "Connection Name" ifname "*" vpn-type openconnect -- vpn.data "gateway=vpn.example.com,protocol=nc"
+```
